@@ -4,5 +4,4 @@
 
 if __name__ == "__main__":
     print("Hello? World!")
-    print("Hello World2!")
-    print("Hello World3!")
+    print("adsadasdsa!")
